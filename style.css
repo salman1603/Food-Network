@@ -50,9 +50,11 @@ h2{
 }
 .container-three{
     margin-bottom: 100px;
+    
+}
+.container-three h2{
     text-align: center;
 }
-
 .container-three p{
     text-align: center;
     width: 960px;
@@ -64,10 +66,7 @@ h2{
     box-shadow: 10px 10px 30px rgb(214, 205, 205);
     padding: 20px;
     border-radius: 20px;
-    -webkit-border-radius: 20px;
-    -moz-border-radius: 20px;
-    -ms-border-radius: 20px;
-    -o-border-radius: 20px;
+    
 }
 .recipie-card-img{
     width:100%;
@@ -89,10 +88,7 @@ h2{
     box-shadow: 10px 10px 40px gray;
     margin-left: 10%;
     border-radius: 20px;
-    -webkit-border-radius: 20px;
-    -moz-border-radius: 20px;
-    -ms-border-radius: 20px;
-    -o-border-radius: 20px;
+    
 }
 .container-four h3{
     text-align: center;
